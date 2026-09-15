@@ -394,7 +394,7 @@ int main(void)
 
     oled_clear();
     oled_set_cursor(0, 0);
-    oled_print("BLUEPILL SENSITIVITY");
+    oled_print("STM32 SENSITIVITY");
     oled_set_cursor(2, 0);
     oled_print("VOLT:");
     oled_set_cursor(4, 0);

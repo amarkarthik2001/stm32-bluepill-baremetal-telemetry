@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>stm32-baremetal-esc</name>
+	<name>stm32-bluepill-baremetal-telemetry</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -29,3 +29,4 @@
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
 </projectDescription>
+
